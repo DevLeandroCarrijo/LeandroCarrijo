@@ -20,7 +20,7 @@ With a passion for technology, I am building a solid foundation in **software de
  ## Contacts:
 
 <div>
-<a href="devleandrocarrijo@outlook.com"> <img loading="lazy" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="devleandrocarrijo@outlook.com" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leandrocarrijo/" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>         
           
