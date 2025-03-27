@@ -25,7 +25,6 @@ With a passion for technology, I am building a solid foundation in **software de
 </div>         
           
 <div>
-<a href="https://github.com/DevLeandroCarrijo">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sDevLeandroCarrijo&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLeandroCarrijo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>     
@@ -35,8 +34,7 @@ With a passion for technology, I am building a solid foundation in **software de
 
 ### Now Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=leandrocarrijo.lc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
----
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=leandrocarrijo.lc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=leandrocarrijo.lc&redirect=true)
 
 
 
