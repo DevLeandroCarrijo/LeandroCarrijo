@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @LCarrijo
-- 👀 I’m interested in learning and adding knowledge
-- 🌱 I’m currently learning systems analysis at PUC-GO
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hello! Welcome to my Github profile.
+## My name is Leandro and my nickname is "Carrijo"!
+
+
+## Ferramentas e Tecnologias
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
 
 <!---
 LCarrijo/LCarrijo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
