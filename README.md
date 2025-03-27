@@ -36,7 +36,7 @@ With a passion for technology, I am building a solid foundation in **software de
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=leandrocarrijo.lc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=leandrocarrijo.lc&redirect=true)
 
-![Snake animation](https://github.com/DevLeandroCarrijo/LeandroCarrijo/blob/output/github-contribution-grid-snake.svg)
+
 
 <!---
 LCarrijo/LCarrijo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
