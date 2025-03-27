@@ -25,7 +25,6 @@ With a passion for technology, I am building a solid foundation in **software de
 </div>         
           
 <div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sDevLeandroCarrijo&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLeandroCarrijo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>     
 
